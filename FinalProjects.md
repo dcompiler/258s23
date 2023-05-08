@@ -1,3 +1,6 @@
+** Instructor** Chen Ding
+** TA** Owen Wacha
+
 # Public Release of Final Projects
 
 Students had from Monday, March 27 to Friday April 28 to propose, discuss, and complete a final project on a topic of their choosing.
