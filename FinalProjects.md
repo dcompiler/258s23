@@ -1,5 +1,5 @@
-- **Instructor** Chen Ding
-- **TA** Owen Wacha
+- Instructor **Chen Ding**
+- TA **Owen Wacha**
 
 # Public Release of Final Projects
 
