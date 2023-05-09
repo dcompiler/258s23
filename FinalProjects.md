@@ -20,7 +20,7 @@ Besides traditional backward propagation, the framework supports likelihood rati
 paradigm for ANNs. In the evaluation part, this project provides performance and accuracy data under general training situations with different 
 settings covering both traditional and new methods implemented in our framework.
 
-Sides: 
+Sides: https://github.com/dcompiler/258s23/blob/main/slides/Yifan%20Zhu.key
 
 ### Will Nguyen and Woody Wu, Enhancing N-Body Simulation Performance through Parallelism and Rust-based Quadtree Data Structure
 
