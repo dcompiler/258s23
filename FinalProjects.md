@@ -1,3 +1,5 @@
+# University of Rochester CSC 258/458 Parallel and Distributed Systems (Spring 2023)
+
 - Instructor **Chen Ding**
 - TA **Owen Wacha**
 
